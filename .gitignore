@@ -1,3 +1,4 @@
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -33,3 +34,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Am_I/Projet/\.vs/New Unity Project 1/v15/sqlite3/
+
+Am_I/Projet/\.vs/Projet/v15/sqlite3/
